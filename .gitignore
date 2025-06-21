@@ -148,7 +148,3 @@ results/*.json
 data/raw/*
 data/processed/*
 
-# Assets (if they are large)
-assets/*.png
-assets/*.jpg
-assets/*.jpeg 
